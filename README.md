@@ -24,3 +24,4 @@ Six groups were formed from the attendees and each group chose a particular area
 3. Build new architectures of co-creation centered on human experience.
 4. Measure how the human is doing in co-creative systems.
 5. Creative Systems with explainable component(s).
+6. interpretability
