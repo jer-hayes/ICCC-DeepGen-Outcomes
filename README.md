@@ -7,7 +7,7 @@ This repo contains the ideas that were ideated during the workshop.
 
 ## Core Topics
 
-Several abstracts were presented and in-depth discussions took place.
+Several abstracts were presented and in-depth discussions took place. The core topics that arose form the discussions were:
 
 1. Evaluation Metrics
 2. Co-creativity
