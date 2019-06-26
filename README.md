@@ -25,3 +25,5 @@ Six groups were formed from the attendees and each group chose a particular area
 4. Measure how the human is doing in co-creative systems.
 5. Creative Systems with explainable component(s).
 6. Interpretability
+
+![Alt text](artwork.jpg?raw=true "Artwork")
