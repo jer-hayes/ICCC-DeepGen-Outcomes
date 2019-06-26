@@ -2,7 +2,7 @@
 > Computational Creativity and Deep Generative Design: bridging the gap
 
 
-This repo contains the ideas that were ideated during the workshop.
+This repo contains the topics that were ideated during the workshop.
 
 
 ## Core Topics
