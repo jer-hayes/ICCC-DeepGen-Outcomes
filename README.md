@@ -26,4 +26,6 @@ Six groups were formed from the attendees and each group chose a particular area
 5. Creative Systems with explainable component(s).
 6. Interpretability
 
+## You had to be there!
+
 ![Alt text](artwork.jpg?raw=true "Artwork")
